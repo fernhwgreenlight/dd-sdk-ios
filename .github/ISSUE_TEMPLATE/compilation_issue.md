@@ -35,7 +35,7 @@ _e.g. `Xcode 11.5 (11E608c)`_
 
 #### Swift version:
 
-_e.g. `5.1`_
+_e.g. `5.7.1`_
 
 #### Deployment Target:
 
